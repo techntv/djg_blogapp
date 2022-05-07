@@ -1,0 +1,7 @@
+asgiref==3.5.1
+certifi==2021.10.8
+Django==3.1.14
+gunicorn==19.9.0
+pytz==2022.1
+sqlparse==0.4.2
+whitenoise==5.1.0
